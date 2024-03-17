@@ -3,11 +3,11 @@
 // import * as BusOrderDevops from '../lib/bus-order-devops-stack';
 
 // example test. To run these tests, uncomment this file along with the
-// example resource in lib/bus-order-devops-stack.ts
+// example resource in lib/s3-bucket.ts
 test('SQS Queue Created', () => {
 //   const app = new cdk.App();
 //     // WHEN
-//   const stack = new BusOrderDevops.BusOrderDevopsStack(app, 'MyTestStack');
+//   const stack = new BusOrderDevops.S3Bucket(app, 'MyTestStack');
 //     // THEN
 //   const template = Template.fromStack(stack);
 
